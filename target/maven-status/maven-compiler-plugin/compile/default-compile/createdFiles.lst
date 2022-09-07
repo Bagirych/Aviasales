@@ -1,0 +1,3 @@
+domain\Offer.class
+repository\RepositoryOffer.class
+manager\ManagerOffer.class
